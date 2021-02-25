@@ -3,6 +3,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=realcyguy&theme=vue&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" />
   </a>
   <br>
+  <a href="https://github.com/RealCyGuy/i-am-the-island">i am the island</a>
+  <br>
   <a href="https://realcyguy.itch.io/sliding-game">Sliding Game</a>
   <br>
   <a href="https://wikimagehow.netlify.app">wikimagehow</a>
